@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rex Makusia | DevOps Practitioner</title>
-    <link>https://rex-makusia.github.io/devpollinate/</link>
-    <description>Recent content on Rex Makusia | DevOps Practitioner</description>
+    <title>Rex&#39;s DevOps Portfolio</title>
+    <link>https://devpollinate.gitlab.io/rex-makusia/</link>
+    <description>Recent content on Rex&#39;s DevOps Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rex-makusia.github.io/devpollinate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://devpollinate.gitlab.io/rex-makusia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://rex-makusia.github.io/devpollinate/posts/my-first-post/</link>
+      <link>https://devpollinate.gitlab.io/rex-makusia/posts/my-first-post/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://rex-makusia.github.io/devpollinate/posts/my-first-post/</guid>
+      <guid>https://devpollinate.gitlab.io/rex-makusia/posts/my-first-post/</guid>
       <description>This is my first post on my Hugo-powered blog. Welcome to my DevOps journey!</description>
     </item>
     

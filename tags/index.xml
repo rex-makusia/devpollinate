@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rex Makusia | DevOps Practitioner</title>
-    <link>https://rex-makusia.github.io/devpollinate/tags/</link>
-    <description>Recent content in Tags on Rex Makusia | DevOps Practitioner</description>
+    <title>Tags on Rex&#39;s DevOps Portfolio</title>
+    <link>https://devpollinate.gitlab.io/rex-makusia/tags/</link>
+    <description>Recent content in Tags on Rex&#39;s DevOps Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rex-makusia.github.io/devpollinate/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://devpollinate.gitlab.io/rex-makusia/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
