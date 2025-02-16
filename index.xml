@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rex Makusia | DevOps Practitioner</title>
-    <link>https://github.com/rex-makusia/devpollinate.git/</link>
+    <link>https://rex-makusia.github.io/rex-makusia/</link>
     <description>Recent content on Rex Makusia | DevOps Practitioner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/rex-makusia/devpollinate.git/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rex-makusia.github.io/rex-makusia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://rex-makusia.github.io/rex-makusia/posts/my-first-post/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://rex-makusia.github.io/rex-makusia/posts/my-first-post/</guid>
+      <description>This is my first post on my Hugo-powered blog. Welcome to my DevOps journey!</description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rex Makusia | DevOps Practitioner</title>
-    <link>https://github.com/rex-makusia/devpollinate.git/tags/</link>
+    <link>https://rex-makusia.github.io/rex-makusia/tags/</link>
     <description>Recent content in Tags on Rex Makusia | DevOps Practitioner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/rex-makusia/devpollinate.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rex-makusia.github.io/rex-makusia/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

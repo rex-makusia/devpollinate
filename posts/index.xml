@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rex Makusia | DevOps Practitioner</title>
-    <link>http://localhost:1313/rex-makusia/posts/</link>
+    <link>https://rex-makusia.github.io/rex-makusia/posts/</link>
     <description>Recent content in Posts on Rex Makusia | DevOps Practitioner</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/rex-makusia/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rex-makusia.github.io/rex-makusia/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://rex-makusia.github.io/rex-makusia/posts/my-first-post/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://rex-makusia.github.io/rex-makusia/posts/my-first-post/</guid>
+      <description>This is my first post on my Hugo-powered blog. Welcome to my DevOps journey!</description>
+    </item>
+    
   </channel>
 </rss>
