@@ -4,6 +4,8 @@ description: "End-to-end implementation of Continuous Delivery for Puppet Enterp
 date: 2025-02-23
 category: "DevOps Automation"
 tags: ["Puppet", "CD4PE", "DevOps"]
+type: "projects"
+draft: false
 ---
 
 ## 🛠 Overview

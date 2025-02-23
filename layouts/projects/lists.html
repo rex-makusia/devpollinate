@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1 class="text-4xl font-bold mb-6">🚀 My DevOps Projects</h1>
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {{ range where .Site.RegularPages "Type" "projects" }}
+    <div class="bg-white shadow-lg rounded-2xl p-6 hover:shadow-xl transition-shadow duration-300">
+        <h2 class="text-xl font-semibold text-gray-800">{{ .Title }}</h2>
+        <p class="text-sm text-gray-500 mb-2">{{ .Params.category }}</p>
+        <p class="text-gray-600">{{ .Params.description }}</p>
+        <a href="{{ .RelPermalink }}" class="mt-4 inline-block text-blue-600 hover:underline">Read More →</a>
+    </div>
+    {{ end }}
+</div>
+{{ end }}
