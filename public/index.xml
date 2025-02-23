@@ -9,6 +9,22 @@
     <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-the-about-page&#34;&gt;Welcome to the About Page&lt;/h2&gt;
+&lt;p&gt;This is the About page where you can share details about your website, mission, team, etc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-the-blog&#34;&gt;Welcome to the Blog&lt;/h2&gt;
+&lt;p&gt;Here, you can read all of our latest blog posts. Stay tuned for updates!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>First Post</title>
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
