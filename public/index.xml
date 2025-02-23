@@ -31,5 +31,12 @@
       <guid>https://rex-makusia.github.io/devpollinate/posts/first-post/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;Dev Pollinate&lt;/strong&gt; site powered by Hugo and GitHub Pages!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Puppet CD4PE Implementation</title>
+      <link>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</guid>
+      <description>End-to-end implementation of Continuous Delivery for Puppet Enterprise.</description>
+    </item>
   </channel>
 </rss>

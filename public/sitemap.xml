@@ -8,13 +8,16 @@
     <loc>https://rex-makusia.github.io/devpollinate/</loc>
     <lastmod>2025-02-23T12:55:58+10:00</lastmod>
   </url><url>
-    <loc>https://rex-makusia.github.io/devpollinate/projects/</loc>
-    <lastmod>2025-02-23T12:55:57+10:00</lastmod>
-  </url><url>
     <loc>https://rex-makusia.github.io/devpollinate/about/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rex-makusia.github.io/devpollinate/blog/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rex-makusia.github.io/devpollinate/tags/cd4pe/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rex-makusia.github.io/devpollinate/tags/devops/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rex-makusia.github.io/devpollinate/posts/first-post/</loc>
@@ -23,8 +26,18 @@
     <loc>https://rex-makusia.github.io/devpollinate/posts/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rex-makusia.github.io/devpollinate/categories/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/projects/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rex-makusia.github.io/devpollinate/tags/puppet/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rex-makusia.github.io/devpollinate/tags/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rex-makusia.github.io/devpollinate/categories/</loc>
   </url>
 </urlset>
