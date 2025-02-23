@@ -1,4 +1,4 @@
-baseURL = "https://github.com/rex-makusia/devpollinate.github.io"
+baseURL = "https://rex-makusia.github.io/devpollinate/"
 languageCode = "en-us"
 title = "Dev Pollinate"
 theme = "PaperMod"
