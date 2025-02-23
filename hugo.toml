@@ -4,12 +4,11 @@ title = "Dev Pollinate"
 theme = "PaperMod"
 
 [params]
-  [params.assets]
-    disableFingerprinting = true
-
-[params]
   author = "Rex Makusia"
   description = "My DevOps Portfolio showcasing my projects, blogs, and open-source contributions."
+
+  [params.assets]
+    disableFingerprinting = true
 
 [[menu.main]]
   name = "Home"
