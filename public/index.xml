@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dev Pollinate</title>
-    <link>http://localhost:57954/devpollinate/</link>
+    <link>https://rex-makusia.github.io/devpollinate/</link>
     <description>Recent content on Dev Pollinate</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57954/devpollinate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rex-makusia.github.io/devpollinate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:57954/devpollinate/about/</link>
+      <link>https://rex-makusia.github.io/devpollinate/about/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57954/devpollinate/about/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/about/</guid>
       <description>&lt;h2 id=&#34;welcome-to-the-about-page&#34;&gt;Welcome to the About Page&lt;/h2&gt;
 &lt;p&gt;This is the About page where you can share details about your website, mission, team, etc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:57954/devpollinate/blog/</link>
+      <link>https://rex-makusia.github.io/devpollinate/blog/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57954/devpollinate/blog/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/blog/</guid>
       <description>&lt;h2 id=&#34;welcome-to-the-blog&#34;&gt;Welcome to the Blog&lt;/h2&gt;
 &lt;p&gt;Here, you can read all of our latest blog posts. Stay tuned for updates!&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:57954/devpollinate/posts/first-post/</link>
+      <link>https://rex-makusia.github.io/devpollinate/posts/first-post/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57954/devpollinate/posts/first-post/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/posts/first-post/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;Dev Pollinate&lt;/strong&gt; site powered by Hugo and GitHub Pages!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Puppet CD4PE Implementation</title>
-      <link>http://localhost:57954/devpollinate/projects/puppet-cd4pe/</link>
+      <link>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57954/devpollinate/projects/puppet-cd4pe/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</guid>
       <description>End-to-end implementation of Continuous Delivery for Puppet Enterprise.</description>
     </item>
   </channel>

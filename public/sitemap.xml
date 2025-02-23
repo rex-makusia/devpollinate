@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:57954/devpollinate/articles/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/articles/</loc>
     <lastmod>2025-02-23T12:55:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/</loc>
     <lastmod>2025-02-23T12:55:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/about/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/about/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/blog/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/blog/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/tags/cd4pe/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/tags/cd4pe/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/tags/devops/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/tags/devops/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/posts/first-post/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/posts/first-post/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/posts/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/posts/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/projects/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/projects/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/tags/puppet/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/tags/puppet/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/projects/puppet-cd4pe/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/tags/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/tags/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57954/devpollinate/categories/</loc>
+    <loc>https://rex-makusia.github.io/devpollinate/categories/</loc>
   </url>
 </urlset>
