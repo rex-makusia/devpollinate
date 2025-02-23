@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://rex-makusia.github.io/devpollinate/"
 languageCode = "en-us"
 title = "Dev Pollinate"
 theme = "PaperMod"
