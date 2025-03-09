@@ -31,7 +31,7 @@
       <link>https://rex-makusia.github.io/devpollinate/blog/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://rex-makusia.github.io/devpollinate/blog/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-the-blog&#34;&gt;Welcome to the Blog&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;-dev-pollinate-blog&#34;&gt;🌱 Dev Pollinate Blog&lt;/h2&gt;
 &lt;p&gt;Welcome to the &lt;strong&gt;Dev Pollinate&lt;/strong&gt; blog! Here, you&amp;rsquo;ll find my latest insights, reflections, and lessons learned throughout my DevOps journey. Stay tuned for regular updates on topics such as cloud engineering, automation, CI/CD, and more!&lt;/p&gt;
 &lt;h2 id=&#34;latest-blog-posts&#34;&gt;Latest Blog Posts&lt;/h2&gt;
 &lt;ul&gt;
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>Puppet CD4PE Implementation</title>
-      <link>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</link>
+      <link>https://rex-makusia.github.io/devpollinate/projects/0-09-2025/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/projects/0-09-2025/</guid>
       <description>End-to-end implementation of Continuous Delivery for Puppet Enterprise.</description>
     </item>
   </channel>

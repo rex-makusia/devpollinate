@@ -4,7 +4,7 @@ date: 2025-02-23T00:00:00Z
 draft: false
 ---
 
-## Welcome to the Blog
+## 🌱 Dev Pollinate Blog
 
 Welcome to the **Dev Pollinate** blog! Here, you'll find my latest insights, reflections, and lessons learned throughout my DevOps journey. Stay tuned for regular updates on topics such as cloud engineering, automation, CI/CD, and more!
 
