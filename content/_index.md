@@ -14,8 +14,8 @@ draft: false
 
 Explore some of my key projects that highlight automation, integration, and infrastructure as code:
 
-- **🔹 Continuous Delivery for Puppet** – Streamlining infrastructure deployments with automated pipelines.
-- **🔹 Postilion Host Rebuild Automation** – Enhancing resilience and reducing downtime in financial transaction systems.
+- **🔹 Continuous Delivery for Puppet** – Streamlining infrastructure deployments with automated pipelines.  
+- **🔹 Postilion Host Cloning Automation** – Automating replication of transaction processing environments to improve scalability and disaster recovery.  
 
 [View all projects →](/projects/)
 
@@ -55,4 +55,4 @@ I'm always open to discussions, collaborations, and new opportunities:
 
 ---
 
-Let's build, automate, and innovate together! 🚀
+**👉 Let’s build, automate, and innovate together! 🚀**
