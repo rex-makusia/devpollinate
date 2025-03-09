@@ -4,7 +4,7 @@ date: 2025-03-03
 draft: false
 ---
 
-# 🌱 Welcome to Dev Pollinate – A DevOps Learning Hub
+# 🌱 Welcome to Dev Pollinate
 
 **Dev Pollinate** is a space where I document my DevOps journey, share lessons learned, and explore innovative ideas in cloud, automation, and engineering. Whether you're just starting or scaling DevOps in your organization, you'll find insights to guide your transformation.
 
@@ -23,11 +23,10 @@ draft: false
 
 Here are some key projects showcasing automation, cloud engineering, and DevOps transformation:
 
+- **🔹 Cloud Data Platform** – Automating infrastructure deployments for reliability and speed. 
 - **🔹 Continuous Delivery for Puppet** – Automating infrastructure deployments for reliability and speed.  
-- **🔹 Postilion Host Cloning Automation** – Scaling financial transaction environments with automated provisioning.  
-
-[Explore all projects →](/projects/)
-
+- **🔹 Postilion Host Cloning Automation** – Scaling financial transaction environments with automated 
+provisioning.  
 ---
 
 ## 🛠️ Skills & Technologies  
@@ -46,11 +45,7 @@ Here are the key tools and methodologies shaping my DevOps journey:
 
 Stay up to date with my latest insights and reflections on DevOps transformation:
 
-- [📌 Post 1 Title](#) – *A key learning from my DevOps journey*  
-- [📌 Post 2 Title](#) – *An idea on improving DevOps workflows*  
-- [📌 Post 3 Title](#) – *Best practices for scaling automation*  
-
-[Read more →](/blog/)
+- [📌 Why DevOps Pollinate](/posts/03-09-2025/) – *A key learning from my DevOps journey*  
 
 ---
 
