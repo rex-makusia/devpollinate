@@ -21,8 +21,10 @@
       <link>https://rex-makusia.github.io/devpollinate/about/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://rex-makusia.github.io/devpollinate/about/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-the-about-page&#34;&gt;Welcome to the About Page&lt;/h2&gt;
-&lt;p&gt;This is the About page where you can share details about your website, mission, team, etc.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;-about-dev-pollinate&#34;&gt;🌱 About Dev Pollinate&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Dev Pollinate&lt;/strong&gt; is a blog where I share my experiences and insights from my &lt;strong&gt;DevOps journey&lt;/strong&gt;. As a DevOps engineer with a passion for automation and cloud engineering, I aim to document lessons learned, challenges faced, and solutions found while working with cloud-native technologies.&lt;/p&gt;
+&lt;h3 id=&#34;mission&#34;&gt;Mission&lt;/h3&gt;
+&lt;p&gt;The mission of &lt;strong&gt;Dev Pollinate&lt;/strong&gt; is to create a space for engineers, developers, and organizations to explore &lt;strong&gt;DevOps&lt;/strong&gt; concepts, learn from real-world case studies, and share ideas. My goal is to provide resources that help others scale and automate systems, using tools and practices like &lt;strong&gt;Terraform&lt;/strong&gt;, &lt;strong&gt;Azure&lt;/strong&gt;, &lt;strong&gt;Kubernetes&lt;/strong&gt;, and &lt;strong&gt;CI/CD&lt;/strong&gt; pipelines.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
