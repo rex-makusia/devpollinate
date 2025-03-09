@@ -8,7 +8,6 @@ theme = "PaperMod"
   description = "My DevOps Portfolio showcasing my projects, blogs, and open-source contributions."
   github = "https://github.com/your-username"
   linkedin = "https://linkedin.com/in/your-profile"
-  twitter = "https://twitter.com/your-username"
 
   [params.assets]
     disableFingerprinting = true
