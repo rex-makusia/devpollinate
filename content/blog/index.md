@@ -10,7 +10,7 @@ Welcome to the **Dev Pollinate** blog! Here, you'll find my latest insights, ref
 
 ## Latest Blog Posts
 
-- [📌 Why I Created Dev Pollinate?](/content/posts/03-09-2025.md) – *A key learning from my DevOps journey*
+- [📌 Why I Created Dev Pollinate?](https://rex-makusia.github.io/posts/03-09-2025/) – *A key learning from my DevOps journey*
 
 ---
 
@@ -18,5 +18,5 @@ Feel free to connect and share your thoughts or ideas!
 
 🔗 [GitHub](https://github.com/rex-makusia)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rex-makusia-00333994/)  
-📩 [Email Me](mailto:grecpt@gmail.com)
+📩 [Email Me](mailto:devpollinate@gmail.com)
 

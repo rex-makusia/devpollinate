@@ -47,7 +47,7 @@ Dev Pollinate is about **collaboration and shared learning**. If you have insigh
 
 🔗 [GitHub](https://github.com/rex-makusia)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rex-makusia-00333994/)  
-📩 [Email Me](mailto:grecpt@gmail.com)  
+📩 [Email Me](mailto:devpollinate@gmail.com)
 
 ---
 
