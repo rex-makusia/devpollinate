@@ -11,15 +11,16 @@ Dev Pollinate is your resource for everything DevOps, Cloud, and Engineering. Ex
 ## Featured Projects
 Here are a few of my key projects:
 
-- **Project 1**: Description and link to your project.
-- **Project 2**: Description and link to your project.
-- **Project 3**: Description and link to your project.
+- **Continuos Delivery for Puppet**:.
+- **Postilion Host Rebuild Automation**:
 
 ## Skills & Technologies
 
-- Azure Cloud
-- DevOps Automation
-- Web API Integration
+- Git Version Control
+- Continuos Integration
+- Continuos Delivery
+- Puppet Infrastructure Automation
+
 
 
 ## Latest Blog Posts
@@ -31,9 +32,8 @@ Check out my recent posts:
 
 ## Follow Me
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-username)
+- [GitHub](https://github.com/rex-makusia)
+- [LinkedIn](https://www.linkedin.com/in/rex-makusia-00333994/)
 
 ## Get In Touch
-If you'd like to collaborate or reach out, feel free to [contact me](contact-link).
+If you'd like to collaborate or reach out, feel free to [contact me](grecpt@gmail.com).
