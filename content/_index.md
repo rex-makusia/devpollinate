@@ -23,10 +23,11 @@ draft: false
 
 Here are some key projects showcasing automation, cloud engineering, and DevOps transformation:
 
-- **🔹 Cloud Data Platform** – Automating infrastructure deployments for reliability and speed. 
-- **🔹 Continuous Delivery for Puppet** – Automating infrastructure deployments for reliability and speed.  
-- **🔹 Postilion Host Cloning Automation** – Scaling financial transaction environments with automated 
+- **🔹 Cloud Data Platform (In Progress)** – Building a data warehouse for business analytics utilzing cloud solutions.
+- **🔹 Postilion Host Cloning Automation (Completed)** – Scaling financial transaction environments with automated 
+- **🔹 Continuous Delivery for Puppet (Completed)** – Automating infrastructure deployments for reliability and speed.  
 provisioning.  
+
 ---
 
 ## 🛠️ Skills & Technologies  
@@ -39,15 +40,6 @@ Here are the key tools and methodologies shaping my DevOps journey:
 ✅ **Cloud & DevOps** – Azure, Kubernetes, Docker, Helm  
 ✅ **Observability & Security** – Prometheus, Grafana, CVE Scanning  
 
----
-
-## 📖 Latest Blog Posts  
-
-Stay up to date with my latest insights and reflections on DevOps transformation:
-
-- [📌 Why DevOps Pollinate](/posts/03-09-2025/) – *A key learning from my DevOps journey*  
-
----
 
 ## 💬 Join the Conversation  
 

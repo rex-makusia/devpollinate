@@ -6,4 +6,17 @@ draft: false
 
 ## Welcome to the Blog
 
-Here, you can read all of our latest blog posts. Stay tuned for updates!
+Welcome to the **Dev Pollinate** blog! Here, you'll find my latest insights, reflections, and lessons learned throughout my DevOps journey. Stay tuned for regular updates on topics such as cloud engineering, automation, CI/CD, and more!
+
+## Latest Blog Posts
+
+- [📌 Why I Created Dev Pollinate?](/content/posts/03-09-2025.md) – *A key learning from my DevOps journey*
+
+---
+
+Feel free to connect and share your thoughts or ideas!
+
+🔗 [GitHub](https://github.com/rex-makusia)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rex-makusia-00333994/)  
+📩 [Email Me](mailto:grecpt@gmail.com)
+

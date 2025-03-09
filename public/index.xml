@@ -30,7 +30,16 @@
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://rex-makusia.github.io/devpollinate/blog/</guid>
       <description>&lt;h2 id=&#34;welcome-to-the-blog&#34;&gt;Welcome to the Blog&lt;/h2&gt;
-&lt;p&gt;Here, you can read all of our latest blog posts. Stay tuned for updates!&lt;/p&gt;</description>
+&lt;p&gt;Welcome to the &lt;strong&gt;Dev Pollinate&lt;/strong&gt; blog! Here, you&amp;rsquo;ll find my latest insights, reflections, and lessons learned throughout my DevOps journey. Stay tuned for regular updates on topics such as cloud engineering, automation, CI/CD, and more!&lt;/p&gt;
+&lt;h2 id=&#34;latest-blog-posts&#34;&gt;Latest Blog Posts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rex-makusia.github.io/devpollinate/content/posts/03-09-2025.md&#34;&gt;📌 Why I Created Dev Pollinate?&lt;/a&gt; – &lt;em&gt;A key learning from my DevOps journey&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Feel free to connect and share your thoughts or ideas!&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://github.com/rex-makusia&#34;&gt;GitHub&lt;/a&gt;&lt;br&gt;
+🔗 &lt;a href=&#34;https://www.linkedin.com/in/rex-makusia-00333994/&#34;&gt;LinkedIn&lt;/a&gt;&lt;br&gt;
+📩 &lt;a href=&#34;mailto:grecpt@gmail.com&#34;&gt;Email Me&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Puppet CD4PE Implementation</title>
