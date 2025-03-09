@@ -12,7 +12,7 @@ Welcome to the **Dev Pollinate** blog! Here, you'll find my latest insights, ref
 
 ## 📖 Latest Blog Posts
 
-- [📌 Why I Created Dev Pollinate?](https://rex-makusia.github.io/content/posts/03-09-2025/) – *A key learning from my DevOps journey*
+- [📌 Why I Created Dev Pollinate?](https://rex-makusia.github.io/blog/) – *A key learning from my DevOps journey*
 
 ---
 

@@ -17,45 +17,17 @@
     </item>
     <item>
       <title>Why I Created Dev Pollinate as a DevOps Engineer with BSP Financial Group Limited</title>
-      <link>https://rex-makusia.github.io/devpollinate/posts/why-i-created-dev-pollinate/</link>
+      <link>https://rex-makusia.github.io/devpollinate/blog/why-i-created-dev-pollinate/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/posts/why-i-created-dev-pollinate/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/blog/why-i-created-dev-pollinate/</guid>
       <description>&lt;h1 id=&#34;why-i-created-dev-pollinate-&#34;&gt;Why I Created Dev Pollinate ?&lt;/h1&gt;
 &lt;p&gt;As a DevOps Engineer, I constantly strive to improve my skills, share my experiences, and learn from others in the field. Over the years, I’ve realized the importance of having a platform that allows me to reflect on my journey and contribute to the DevOps community. This is why I created &lt;strong&gt;Dev Pollinate&lt;/strong&gt;—a place to share insights, transformation stories, and ideas that can inspire and help others in their DevOps endeavors.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://rex-makusia.github.io/devpollinate/about/</link>
-      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/about/</guid>
-      <description>&lt;h2 id=&#34;-about-dev-pollinate&#34;&gt;🌱 About Dev Pollinate&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Dev Pollinate&lt;/strong&gt; is a blog where I share my experiences and insights from my &lt;strong&gt;DevOps journey&lt;/strong&gt;. As a DevOps engineer with a passion for automation and cloud engineering, I aim to document lessons learned, challenges faced, and solutions found while working with cloud-native technologies.&lt;/p&gt;
-&lt;h3 id=&#34;mission&#34;&gt;Mission&lt;/h3&gt;
-&lt;p&gt;The mission of &lt;strong&gt;Dev Pollinate&lt;/strong&gt; is to create a space for engineers, developers, and organizations to explore &lt;strong&gt;DevOps&lt;/strong&gt; concepts, learn from real-world case studies, and share ideas. My goal is to provide resources that help others scale and automate systems, using tools and practices like &lt;strong&gt;Terraform&lt;/strong&gt;, &lt;strong&gt;Azure&lt;/strong&gt;, &lt;strong&gt;Kubernetes&lt;/strong&gt;, and &lt;strong&gt;CI/CD&lt;/strong&gt; pipelines.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://rex-makusia.github.io/devpollinate/blog/</link>
-      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/blog/</guid>
-      <description>&lt;h2 id=&#34;-dev-pollinate-blog&#34;&gt;🌱 Dev Pollinate Blog&lt;/h2&gt;
-&lt;p&gt;Welcome to the &lt;strong&gt;Dev Pollinate&lt;/strong&gt; blog! Here, you&amp;rsquo;ll find my latest insights, reflections, and lessons learned throughout my &lt;strong&gt;DevOps&lt;/strong&gt; journey. Stay tuned for regular updates on topics such as &lt;strong&gt;cloud engineering&lt;/strong&gt;, &lt;strong&gt;automation&lt;/strong&gt;, &lt;strong&gt;CI/CD&lt;/strong&gt;, and more!&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-latest-blog-posts&#34;&gt;📖 Latest Blog Posts&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rex-makusia.github.io/content/posts/03-09-2025/&#34;&gt;📌 Why I Created Dev Pollinate?&lt;/a&gt; – &lt;em&gt;A key learning from my DevOps journey&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Feel free to connect and share your thoughts or ideas!&lt;/p&gt;
-&lt;p&gt;🔗 &lt;a href=&#34;https://github.com/rex-makusia&#34;&gt;GitHub&lt;/a&gt;&lt;br&gt;
-🔗 &lt;a href=&#34;https://www.linkedin.com/in/rex-makusia-00333994/&#34;&gt;LinkedIn&lt;/a&gt;&lt;br&gt;
-📩 &lt;a href=&#34;mailto:devpollinate@gmail.com&#34;&gt;Email Me&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Postilion Host Rebuild Automation</title>
-      <link>https://rex-makusia.github.io/devpollinate/projects/02-20-2020/</link>
+      <link>https://rex-makusia.github.io/devpollinate/projects/02-20-2024/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/projects/02-20-2020/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/projects/02-20-2024/</guid>
       <description>Automated host rebuild process for scaling financial transaction environments.</description>
     </item>
   </channel>
