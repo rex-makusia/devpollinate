@@ -4,13 +4,13 @@
 &lt;p>Welcome to the &lt;strong>Dev Pollinate&lt;/strong> blog! Here, you&amp;rsquo;ll find my latest insights, reflections, and lessons learned throughout my DevOps journey. Stay tuned for regular updates on topics such as cloud engineering, automation, CI/CD, and more!&lt;/p>
 &lt;h2 id="latest-blog-posts">Latest Blog Posts&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://rex-makusia.github.io/devpollinate/content/posts/03-09-2025.md">📌 Why I Created Dev Pollinate?&lt;/a> – &lt;em>A key learning from my DevOps journey&lt;/em>&lt;/li>
+&lt;li>&lt;a href="https://rex-makusia.github.io/posts/03-09-2025/">📌 Why I Created Dev Pollinate?&lt;/a> – &lt;em>A key learning from my DevOps journey&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;p>Feel free to connect and share your thoughts or ideas!&lt;/p>
 &lt;p>🔗 &lt;a href="https://github.com/rex-makusia">GitHub&lt;/a>&lt;br>
 🔗 &lt;a href="https://www.linkedin.com/in/rex-makusia-00333994/">LinkedIn&lt;/a>&lt;br>
-📩 &lt;a href="mailto:grecpt@gmail.com">Email Me&lt;/a>&lt;/p></description></item><item><title>Puppet CD4PE Implementation</title><link>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</link><pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><guid>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</guid><description>&lt;h2 id="-overview">🛠 Overview&lt;/h2>
+📩 &lt;a href="mailto:devpollinate@gmail.com">Email Me&lt;/a>&lt;/p></description></item><item><title>Puppet CD4PE Implementation</title><link>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</link><pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><guid>https://rex-makusia.github.io/devpollinate/projects/puppet-cd4pe/</guid><description>&lt;h2 id="-overview">🛠 Overview&lt;/h2>
 &lt;p>Puppet CD4PE (Continuous Delivery for Puppet Enterprise) was implemented to streamline the Puppet code deployment lifecycle. This project integrated &lt;strong>GitLab&lt;/strong> with &lt;strong>Puppet CD4PE&lt;/strong> to enable:&lt;/p>
 &lt;ul>
 &lt;li>Automated code validation and testing.&lt;/li>
