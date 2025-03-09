@@ -25,4 +25,32 @@
 &lt;p>Feel free to connect and share your thoughts or ideas!&lt;/p>
 &lt;p>🔗 &lt;a href="https://github.com/rex-makusia">GitHub&lt;/a>&lt;br>
 🔗 &lt;a href="https://www.linkedin.com/in/rex-makusia-00333994/">LinkedIn&lt;/a>&lt;br>
-📩 &lt;a href="mailto:devpollinate@gmail.com">Email Me&lt;/a>&lt;/p></description></item></channel></rss>
+📩 &lt;a href="mailto:devpollinate@gmail.com">Email Me&lt;/a>&lt;/p></description></item><item><title>Postilion Host Rebuild Automation</title><link>https://rex-makusia.github.io/devpollinate/projects/02-20-2020/</link><pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate><guid>https://rex-makusia.github.io/devpollinate/projects/02-20-2020/</guid><description>&lt;h2 id="-overview">🛠 Overview&lt;/h2>
+&lt;p>The &lt;strong>Postilion Host Rebuild Automation&lt;/strong> project was developed to streamline the rebuilding and cleaning of Postilion hosts in a financial transaction environment. Previously, the team had to manually clean up test environments, which was a time-consuming process that took &lt;strong>weeks&lt;/strong> to complete. This project leverages &lt;strong>GitLab&lt;/strong>, &lt;strong>Pipelines&lt;/strong>, and &lt;strong>Runners&lt;/strong> to automate critical tasks such as:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Registry Host Level Cleanup&lt;/strong>: Automatically cleaning up registry entries from previous configurations to ensure a clean environment for the next deployment.&lt;/li>
+&lt;li>&lt;strong>Microsoft SQL Server Cleanup&lt;/strong>: Automated cleanup of SQL Server instances, removing old configurations and ensuring the database environment is ready for new deployments.&lt;/li>
+&lt;/ul>
+&lt;h2 id="-key-features">⚡ Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>GitLab Integration&lt;/strong>: GitLab CI/CD pipelines and runners manage the automation tasks, providing seamless integration and version control.&lt;/li>
+&lt;li>&lt;strong>Registry Host Cleanup&lt;/strong>: Uses custom scripts in the pipeline to identify and remove outdated registry entries, ensuring hosts are clean for new configurations.&lt;/li>
+&lt;li>&lt;strong>SQL Server Cleanup&lt;/strong>: Automates the cleanup of Microsoft SQL Server, removing obsolete data and resetting configurations to improve performance and security.&lt;/li>
+&lt;li>&lt;strong>Automation of Rebuilds&lt;/strong>: Fully automated host rebuild process using pipelines for environment consistency and scalability.&lt;/li>
+&lt;li>&lt;strong>Test Environment Optimization&lt;/strong>: Reduces the time spent cleaning test environments from weeks to &lt;strong>hours&lt;/strong>, improving overall efficiency and throughput.&lt;/li>
+&lt;/ul>
+&lt;h2 id="-benefits">🚀 Benefits&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Efficiency&lt;/strong>: Significantly reduced manual intervention by automating the host rebuild and cleanup processes.&lt;/li>
+&lt;li>&lt;strong>Consistency&lt;/strong>: Ensured consistent host environments by automating cleanup tasks, eliminating human error.&lt;/li>
+&lt;li>&lt;strong>Scalability&lt;/strong>: Streamlined the process for scaling the deployment of hosts, allowing the environment to grow efficiently without compromising quality.&lt;/li>
+&lt;li>&lt;strong>Time Savings&lt;/strong>: What previously took weeks to clean up in the test environment is now accomplished in &lt;strong>hours&lt;/strong>, accelerating development and testing cycles.&lt;/li>
+&lt;/ul>
+&lt;h2 id="-goals-achieved">🎯 Goals Achieved&lt;/h2>
+&lt;ul>
+&lt;li>Successfully automated the &lt;strong>host rebuild process&lt;/strong> for Postilion environments.&lt;/li>
+&lt;li>Integrated &lt;strong>GitLab Pipelines&lt;/strong> and &lt;strong>Runners&lt;/strong> to handle complex tasks like &lt;strong>registry cleanup&lt;/strong> and &lt;strong>SQL Server reset&lt;/strong>.&lt;/li>
+&lt;li>Reduced test environment cleanup time from weeks to &lt;strong>hours&lt;/strong>, enabling faster iterations and deployments.&lt;/li>
+&lt;li>Improved overall testing efficiency and reduced downtime for development teams.&lt;/li>
+&lt;/ul>
+&lt;hr></description></item></channel></rss>
