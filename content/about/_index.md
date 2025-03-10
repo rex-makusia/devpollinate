@@ -22,4 +22,3 @@ If you have thoughts to share, questions to ask, or experiences to discuss, feel
 
 ---
 
-**🌍 Let’s learn, transform, and innovate together in the world of DevOps! 🚀**
