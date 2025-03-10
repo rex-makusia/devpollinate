@@ -6,11 +6,8 @@ theme = "PaperMod"
 [params]
   author = "Rex Makusia"
   description = "My DevOps Portfolio showcasing my projects, blogs, and open-source contributions."
-  github = "https://github.com/your-username"
-  linkedin = "https://linkedin.com/in/your-profile"
-
-  # Ensure only blog posts appear on the homepage
-  mainSections = ["blog"]  
+  github = "https://github.com/rex-makusia"
+  linkedin = "https://www.linkedin.com/in/rex-makusia-00333994/"
 
   [params.assets]
     disableFingerprinting = true
