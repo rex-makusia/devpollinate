@@ -9,6 +9,9 @@ theme = "PaperMod"
   github = "https://github.com/your-username"
   linkedin = "https://linkedin.com/in/your-profile"
 
+  # Ensure only blog posts appear on the homepage
+  mainSections = ["blog"]  
+
   [params.assets]
     disableFingerprinting = true
 
