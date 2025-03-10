@@ -12,6 +12,9 @@ theme = "PaperMod"
 [params.assets]
   disableFingerprinting = true
 
+# Specify that blog posts should appear on the homepage
+mainSections = ["blog"]
+
 [[menu.main]]
   name = "Home"
   url = "/"
