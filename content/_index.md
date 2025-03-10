@@ -36,5 +36,3 @@ draft: false
 📩 [Email Me](mailto:devpollinate@gmail.com)  
 
 ---
-
-**🌍 Let’s learn, transform, and innovate together in the world of DevOps! 🚀**
