@@ -9,8 +9,8 @@ theme = "PaperMod"
   github = "https://github.com/rex-makusia"
   linkedin = "https://www.linkedin.com/in/rex-makusia-00333994/"
 
-  [params.assets]
-    disableFingerprinting = true
+[params.assets]
+  disableFingerprinting = true
 
 [[menu.main]]
   name = "Home"
@@ -30,4 +30,4 @@ theme = "PaperMod"
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 4s
+  weight = 4
