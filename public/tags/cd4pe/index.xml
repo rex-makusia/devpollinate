@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CD4PE on Dev Pollinate</title>
+    <link>https://rex-makusia.github.io/devpollinate/tags/cd4pe/</link>
+    <description>Recent content in CD4PE on Dev Pollinate</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rex-makusia.github.io/devpollinate/tags/cd4pe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puppet CD4PE Implementation</title>
+      <link>https://rex-makusia.github.io/devpollinate/projects/03-09-2025/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rex-makusia.github.io/devpollinate/projects/03-09-2025/</guid>
+      <description>End-to-end implementation of Continuous Delivery for Puppet Enterprise.</description>
+    </item>
+  </channel>
+</rss>
