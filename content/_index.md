@@ -6,7 +6,7 @@ draft: false
 
 # 🌱 Welcome to Dev Pollinate
 
-**Dev Pollinate** is where I document my **DevOps** journey, share lessons learned, and explore innovative ideas in cloud engineering, automation, and modern software development.
+**Dev Pollinate** is where I document my **DevOps** journey, share lessons learned, and explore innovative ideas in DevOps engineering, Continuos Integration and Continuous Delivery and Ways of working.
 
 I created **Dev Pollinate** to document my personal growth in the world of **DevOps**, as well as to contribute to the broader community by sharing valuable insights. I believe in the power of **collaboration** and **continuous learning**, and this blog serves as both a record of my journey and a resource for those looking to enhance their DevOps practices.
 
@@ -14,7 +14,7 @@ I created **Dev Pollinate** to document my personal growth in the world of **Dev
 
 ## 🔥 What You'll Find Here  
 
-🔹 **Hands-on Tutorials** – Step-by-step guides on automation, CI/CD, and cloud-native technologies.  
+🔹 **Hands-on Tutorials** – Step-by-step guides on automation, CI/CD practices and implementation.  
 🔹 **DevOps Transformation Insights** – Real-world challenges and strategies for modernizing engineering workflows.  
 🔹 **Project Case Studies** – Deep dives into automation projects, tool integrations, and best practices.  
 🔹 **Ideas & Discussions** – Exploring the future of DevOps, infrastructure as code, and site reliability.
@@ -23,9 +23,9 @@ I created **Dev Pollinate** to document my personal growth in the world of **Dev
 
 ## 🚀 Featured Projects  
 
-- **🔹 Cloud Data Platform (In Progress)** – Building a data warehouse for business analytics utilizing cloud solutions.
-- **🔹 Postilion Host Cloning Automation (Completed)** – Scaling financial transaction environments with automated provisioning.
-- **🔹 Continuous Delivery for Puppet (Completed)** – Automating infrastructure deployments for reliability and speed.
+- **🔹 Data Warehouse (In Progress)** – Building a data warehouse for business analytics utilizing solutions.
+- **🔹 Server Cloning Automation (Completed)** – Automated the server cloning process and with return value of time.
+- **🔹 Continuous Delivery for Puppet (Completed)** – Automated deployments with canary approach.
 
 ---
 
