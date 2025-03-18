@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Runners on Dev Pollinate</title>
-    <link>http://localhost:1313/devpollinate/tags/runners/</link>
+    <link>https://rex-makusia.github.io/devpollinate/tags/runners/</link>
     <description>Recent content in Runners on Dev Pollinate</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/devpollinate/tags/runners/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rex-makusia.github.io/devpollinate/tags/runners/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Postilion Host Rebuild Automation</title>
-      <link>http://localhost:1313/devpollinate/projects/02-20-2025/</link>
+      <title>Server Cloning Automation</title>
+      <link>https://rex-makusia.github.io/devpollinate/projects/02-20-2025/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/projects/02-20-2025/</guid>
-      <description>Automated host rebuild process for scaling financial transaction environments.</description>
+      <guid>https://rex-makusia.github.io/devpollinate/projects/02-20-2025/</guid>
+      <description>Server Cloning Automation.</description>
     </item>
   </channel>
 </rss>
