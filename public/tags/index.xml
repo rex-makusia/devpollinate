@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dev Pollinate</title>
-    <link>http://localhost:1313/devpollinate/tags/</link>
+    <link>https://rex-makusia.github.io/devpollinate/tags/</link>
     <description>Recent content in Tags on Dev Pollinate</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/devpollinate/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rex-makusia.github.io/devpollinate/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BSP Financial Group Limited</title>
-      <link>http://localhost:1313/devpollinate/tags/bsp-financial-group-limited/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/bsp-financial-group-limited/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/bsp-financial-group-limited/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/bsp-financial-group-limited/</guid>
       <description></description>
     </item>
     <item>
       <title>CD4PE</title>
-      <link>http://localhost:1313/devpollinate/tags/cd4pe/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/cd4pe/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/cd4pe/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/cd4pe/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
-      <link>http://localhost:1313/devpollinate/tags/devops/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/devops/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/devops/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning Hub</title>
-      <link>http://localhost:1313/devpollinate/tags/learning-hub/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/learning-hub/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/learning-hub/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/learning-hub/</guid>
       <description></description>
     </item>
     <item>
       <title>Puppet</title>
-      <link>http://localhost:1313/devpollinate/tags/puppet/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/puppet/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/puppet/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/puppet/</guid>
       <description></description>
     </item>
     <item>
       <title>GitLab</title>
-      <link>http://localhost:1313/devpollinate/tags/gitlab/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/gitlab/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/gitlab/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/gitlab/</guid>
       <description></description>
     </item>
     <item>
       <title>Pipeline</title>
-      <link>http://localhost:1313/devpollinate/tags/pipeline/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/pipeline/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/pipeline/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/pipeline/</guid>
       <description></description>
     </item>
     <item>
       <title>Runners</title>
-      <link>http://localhost:1313/devpollinate/tags/runners/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/runners/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/runners/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/runners/</guid>
       <description></description>
     </item>
     <item>
       <title>SQL Server</title>
-      <link>http://localhost:1313/devpollinate/tags/sql-server/</link>
+      <link>https://rex-makusia.github.io/devpollinate/tags/sql-server/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/devpollinate/tags/sql-server/</guid>
+      <guid>https://rex-makusia.github.io/devpollinate/tags/sql-server/</guid>
       <description></description>
     </item>
   </channel>
